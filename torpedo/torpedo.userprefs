@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3171B6CB-F6AC-4E8E-8432-FF866FF4C265}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="torpedo/Program.cs">
+    <Files>
+      <File FileName="torpedo/Program.cs" Line="6" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.torpedo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/home/qp/Projects/torpedo/torpedo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/qp/Projects/torpedo/torpedo/bin/Debug/torpedo.exe.mdb
+/home/qp/Projects/torpedo/torpedo/bin/Debug/torpedo.exe
+/home/qp/Projects/torpedo/torpedo/obj/x86/Debug/torpedo.exe
+/home/qp/Projects/torpedo/torpedo/obj/x86/Debug/torpedo.exe.mdb
